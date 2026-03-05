@@ -48,7 +48,7 @@ Gathered is an open-source group video calling web app built with Next.js, WebRT
 
 ```bash
 # Clone the repo
-git clone [https://github.com/sheikhsulaiman/gathered.git](https://github.com/sheikhsulaiman/gathered)
+git clone https://github.com/sheikhsulaiman/gathered.git
 cd gathered
 
 # Install dependencies
